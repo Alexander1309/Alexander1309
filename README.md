@@ -6,7 +6,7 @@ Y soy un apasionado por la robótica y la programación; para mí, programar es 
 
 ## 🎯 Objetivo profesional
 
-Mi propósito es obtener un buen empleo como desarrollador full stack y, al mismo tiempo, especializarme en machine learning para ampliar mis habilidades tecnológicas. Además, como emprendedor, soy fundador de **Robonova Academy en Monclova**, Coahuila, una academia de robótica donde imparto clases y formo a la próxima generación de innovadores.
+Mi propósito es obtener un buen empleo como desarrollador full stack y, al mismo tiempo, especializarme en machine learning para ampliar mis habilidades tecnológicas. Además, como emprendedor, soy fundador de **Robonova Academy en Monclova Coahuila**, una academia de robótica donde imparto clases y formo a la próxima generación de innovadores.
 
 ## 💡 Valores
 
