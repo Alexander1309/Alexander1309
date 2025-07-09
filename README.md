@@ -58,7 +58,7 @@ Puedes encontrarme en:
 
 ## 💬 Frases que me inspiran
 
-> "El límite solo existe en tu mente y Solo se descansa hasta en la tumba"
+> "El límite solo existe en tu mente y Solo se descansa hasta la tumba"
 >
 > "Aprende a crear el futuro"
 >
