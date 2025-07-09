@@ -1,8 +1,8 @@
 # 💻 Alexander | Programador Master, Técnico Mecatrónico y Futuro Ing. Electrónico
 
-## 👋 ¡Hola!
+## 👋 ¡Hola, Soy Alexander Uriel Torres Perez!
 
-Soy un apasionado por la robótica y la programación; para mí, programar es más que una profesión, es mi hobby favorito. Me considero autodidacta, creativo y siempre dispuesto a superar cualquier desafío. Actualmente imparto clases en **Robonova Academy**, donde soy fundador, y estudio en el **Instituto Tecnológico Superior de México Campus Monclova (TECNM CM)**.
+Y soy un apasionado por la robótica y la programación; para mí, programar es más que una profesión, es mi hobby favorito. Me considero autodidacta, creativo y siempre dispuesto a superar cualquier desafío. Actualmente imparto clases en **Robonova Academy**, donde soy fundador, y estudio en el **Instituto Tecnológico Superior de México Campus Monclova (TECNM CM)**.
 
 ## 🎯 Objetivo profesional
 
